@@ -61,15 +61,6 @@ If you have some time you are willing to lend to the cause, please reach out to 
 
 ---
 
-## Shop With Amazon Smile
-
-If you [shop Amazon after using this link](https://smile.amazon.com/ch/47-5440436), Amazon
-will donate a small portion of your purchases to OGPC.
-
-[![ Shop with Amazon Smile ](assets/images/Amazon-Smile.jpg){:style="width: 200px"}](https://smile.amazon.com/ch/47-5440436)
-
----
-
 ## Sponsor
 
 Putting on OGPC each year requires renting a facility, buying awards, and providing food to
@@ -87,5 +78,27 @@ participants.
 
 If you have questions or would like to talk to us about sponsorship, please email us at
 [info@ogpc.info](mailto:info@ogpc.info).
+
+### Ready to Donate?
+
+To donate via check, please contact [info@ogpc.info](mailto:info@ogpc.info) for Credit/Debit card,
+please donate via Paypal:
+
+<div id="donate-button-container" class="d-flex align-items-center justify-content-center">
+<div id="donate-button"></div>
+<script src="https://www.paypalobjects.com/donate/sdk/donate-sdk.js" charset="UTF-8"></script>
+<script>
+PayPal.Donation.Button({
+env:'production',
+hosted_button_id:'96V4CW92449QJ',
+image: {
+src:'https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif',
+alt:'Donate with PayPal button',
+title:'PayPal - The safer, easier way to pay online!',
+}
+}).render('#donate-button');
+</script>
+</div>
+
 
 {%- include sponsors.html header-text='Our current sponsors' -%}
