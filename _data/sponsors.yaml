@@ -9,6 +9,9 @@
       img: assets/images/sponsors/brainium.png
 - description: Award Sponsors
   sponsors:
+    - name: Liquid Development
+      url: https://www.liquiddevelopment.com/
+      img: assets/images/sponsors/liquiddevelopment.png
     - name: Telestream
       url: https://www.telestream.net/telestream-home.htm
       img: assets/images/sponsors/telestream.png
