@@ -9,12 +9,13 @@ title: Oregon Game Project Challenge
 # OGPC
 {: .d-none}
 
-## SEASON 16 (2022-2023) Is Here!
+## SEASON 16 (2022-2023) Main Event is Approaching!
+{: .ogpc-blue}
 
-Visit the [Season 16 page]({% link _seasons/2023.md %}) to learn about the theme, date, and rules
-for the season. Registration is open in the [Team Management System](https://tms.ogpc.info/).
-
-Brand new to OGPC? Check the [Compete]({% link compete.md %}) page to learn how to get involved.
+The Season 16 Main Event is May 20th at Western Oregon University. Check the
+[Season 16 Quick Facts]({% link /assets/files/seasons/16/OGPC-16-Quick-Facts.pdf %})
+for information about the event. For full details about the theme and rules
+for the season, visit the [Season 16 page]({% link _seasons/2023.md %}).
 
 ---
 
