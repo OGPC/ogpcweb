@@ -18,6 +18,11 @@
     - name: Microsoft Azure
       url: https://azure.microsoft.com/en-us/
       img: assets/images/sponsors/azure.png
+- description: Launch Sponsors
+  sponsors:
+    - name: ConMet
+      url: https://conmet.com/
+      img: assets/images/sponsors/ConMet.png
 - description: Special Thanks To
   class: thanks
   sponsors:
