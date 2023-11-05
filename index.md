@@ -9,12 +9,10 @@ title: Oregon Game Project Challenge
 # OGPC
 {: .d-none}
 
-## SEASON 16 (2022-2023) IS COMPLETE
+## SEASON 17 (2023-2024) IS HERE!
 {: .ogpc-blue}
 
-Check out the [winning entries](https://tms.ogpc.info/Games?seasonId=47949f94-e3d2-4d0d-887b-0028436d6d1c&div=all&award=1&registered=all).
-
-Check back in Fall for information about Season 17.
+Find out all about it on the [Season 17](seasons/2024.html) page.
 
 ---
 
