@@ -87,7 +87,7 @@ Your first name and last initial are displayed to anyone who views your team's p
 
 Any documents you upload to your Team's entry will be visible to anyone who views the entry page.
 
-#### Legal Requirements
+#### Legal & Safety Requirements
 
 OGPC may disclose Your personal data in the good faith belief that such action is necessary to:
 
