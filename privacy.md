@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Privacy Policy
+permalink: /privacy/
 ---
 
 Last updated: November 7, 2023
