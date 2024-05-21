@@ -9,10 +9,16 @@ title: Oregon Game Project Challenge
 # OGPC
 {: .d-none}
 
-## SEASON 17 (2023-2024) IS HERE!
+## Season 17 Is Complete
 {: .ogpc-blue}
 
-Find out all about it on the [Season 17](seasons/2024.html) page.
+The [17th Season](seasons/2024.html) of OGPC is complete. Congraulations to all the teams for
+a tremendous job!
+
+Visit the OGPC Team Sangement System to see the [list of award winners](https://tms.ogpc.info/)
+or to [browse all the projects](https://tms.ogpc.info/Games).
+
+Check back next fall for OGPC 2024-2025!
 
 ---
 
