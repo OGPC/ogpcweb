@@ -9,7 +9,7 @@ title: Oregon Game Project Challenge
 # OGPC
 {: .d-none}
 
-## Season 18 Is Coming Soon
+## Season 18 Is Here!
 {: .ogpc-blue}
 
 [Season 18](/seasons/2025) of OGPC is here! 
