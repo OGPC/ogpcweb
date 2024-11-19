@@ -12,8 +12,11 @@ title: Oregon Game Project Challenge
 ## Season 18 Is Coming Soon
 {: .ogpc-blue}
 
-Season 18 of OGPC will be launching on November 18th. Check back then for this year's theme
-and information about the competition!
+[Season 18](/seasons/2025) of OGPC is here! 
+
+This year's theme is available on the the [Season 18 page](/seasons/2025). The full competition manual and achievement guide will be released December 9th.
+
+The main event will be May 10th at Western Oregon University.
 
 ---
 
