@@ -12,11 +12,11 @@ title: Oregon Game Project Challenge
 ## Season 18
 {: .ogpc-blue}
 
-[Season 18](/seasons/2025) of OGPC is here! 
+OGPC's season for the 2024-25 school year is here!
 
-This year's theme is available on the the [Season 18 page](/seasons/2025). The full competition manual and achievement guide will be released December 9th.
+Check out the [Season 18 page](/seasons/2025) for all the details.
 
-The main event will be May 10th at Western Oregon University.
+The main event will be occurring May 10th at Western Oregon University.
 
 ---
 
