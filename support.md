@@ -47,6 +47,11 @@ to be notified each year when we start recruiting.
 
 [Sign up for the mailing list]({%link contact.md%}){: .btn }
 
+The sign up for this year's event has already begun. If you want to volunteer at the 2025 event,
+please make sure to sign up here (in addition to joining our mailing list above):
+
+[Sign up to volunteer in 2025](https://docs.google.com/forms/d/e/1FAIpQLSde7FEXN33RooayXERRe_vWj9dz5nTmHyG20OPiPsB2BSu07Q/viewform?pli=1){: .btn }
+
 ### Planning
 
 OGPC isn’t just a one-day event. There’s marketing, sponsorships, outreach, web updates, software
