@@ -8,7 +8,8 @@ To contact the OGPC planning team, email us at [info@ogpc.info](mailto:info@ogpc
 ## Mailing List
 
 Interested in keeping up with what is going on with OGPC? This mailing list is the best way to make
-sure you hear about anything relevant to you.
+sure you hear about anything relevant to you. 
+**Coaches**: we host virtual office hours and coach specific talks. The only way to recieve information on these is through the mailer. Please sign up below.
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7_dtp.css" rel="stylesheet" type="text/css">
