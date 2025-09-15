@@ -10,8 +10,9 @@ title: Oregon Game Project Challenge
 {: .d-none}
 
 ## Season 19
+{: .ogpc-blue}
 
-The Season 19 theme will be announced the week of September 15, 2025.
+The [Season 19 (2025-2026) theme](/seasons/2026) has been announced! Visit the season page for more details.
 
 ## Season 18
 {: .ogpc-blue}
