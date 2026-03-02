@@ -11,8 +11,8 @@ title: Oregon Game Project Challenge
 
 ## Season 19
 {: .ogpc-blue}
-
-The [Season 19 (2025-2026)](/seasons/2026) will be May 9, 2026! Visit the season page for more details.
+**Updated Date**
+The [Season 19 (2025-2026)](/seasons/2026) will be **May 2, 2026**! Visit the season page for more details.
 
 ---
 
