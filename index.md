@@ -9,11 +9,9 @@ title: Oregon Game Project Challenge
 # OGPC
 {: .d-none}
 
-## Season 19
+## Season 20
 {: .ogpc-blue}
-**Updated Date**
-The [Season 19 (2025-2026)](/seasons/2026) will be **May 2, 2026**! Visit the season page for more details.
-
+The Season 20 theme is Contrast. The Main Event date will be released November 2026. See the Season 20 page for more details.
 ---
 
 ## About OGPC
